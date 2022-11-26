@@ -1,4 +1,4 @@
-# vue-test
+# alura-tracker
 
 ## Project setup
 ```
